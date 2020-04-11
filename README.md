@@ -1,8 +1,12 @@
 <img alt="GoStack" src="https://res.cloudinary.com/vinicius998609604/image/upload/v1586633666/Semana%20OmniStack%2011.0%20-%20BE%20THE%20HERO/keepcoding_kdzpy5.png" />
 
-## Desafio 02
+## :dart: Desafio 02
 
 - [Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+
+## :ballot_box_with_check: Resultado
+
+<img alt="GoStack" src="https://res.cloudinary.com/vinicius998609604/image/upload/v1586636849/Semana%20OmniStack%2011.0%20-%20BE%20THE%20HERO/resultado_uizlwb.png" />
 
 ## :memo: Licença
 
